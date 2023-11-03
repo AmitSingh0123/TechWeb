@@ -2,7 +2,7 @@ HTML
 Evitiamo il più possibile commenti in HTML.
 
 CSS
-Utilizzare sempre BEM convention per essere poterci tutti capire. Attualmente alcuni la criticano mentre altri la adorano, secondo me è funzionale ed ci permette di 
+Utilizzare sempre BEM convention per poterci capire tutti. Attualmente alcuni la criticano mentre altri la adorano, secondo me è funzionale e ci permette di 
 capire già dal codice HTML cosa dovrebbe fare un elemento. 
 (link: https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/#the-bem-naming-convention)
 
