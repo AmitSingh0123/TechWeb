@@ -1,0 +1,14 @@
+HTML
+Evitiamo il più possibile commenti in HTML.
+
+CSS
+Utilizzare sempre BEM convention per essere poterci tutti capire. Attualmente alcuni la criticano mentre altri la adorano, secondo me è funzionale ed ci permette di 
+capire già dal codice HTML cosa dovrebbe fare un elemento. 
+(link: https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/#the-bem-naming-convention)
+
+JAVASCRIPT
+Almeno durante lo sviluppo del sito (sentiamo anche cose dice la prof se mantenerlo o meno alla consegna) utilizziamo js-* per gli hook di javascript quindi se mi ritrovo
+<div class="element"></div>
+ed ho bisogno di un hook per fare qualcosa in javascript trasformiamo il tutto in
+<div class="element js-element"></div>
+(link: https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/#css-names-with-javascri)

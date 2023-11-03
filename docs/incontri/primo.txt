@@ -1,0 +1,20 @@
+Chiariamo le pagine che vogliamo siano presenti all'interno del sito, per ora siamo rimasti a:
+- Homepage
+- Offerte
+- Viaggi
+- Abbonamenti
+- Chi siamo
+- Diversità ed inclusione
+- Pagina utente / amministratore
+All'incontro in data 11/3/2023 si era discusso di aggiungere anche una pagina / sezione rigurdante ipotetici servizi, valutarne la validità.
+La decisione delle pagine da sviluppare potrebbe influenzare anche lo sviluppo della pagina utente e della pagina amministratore, è quindi necessario 
+valutare bene quali funzionalità il sito implementi (valutare se solo acquisto dei biglietti, se acquisto e cancellazione oppure se acquisto, modifica e cancellazione).
+
+
+Identificazione del contenuto informativo di ciascuna pagina (che tipologia di informazioni dovrebbe contenere) e possibile rappresentazione grafica assegnata a tali
+contenuti (Sviluppo di cards, particolari animazioni o semplice plain text).
+
+Identificare le differenti strutture HTML che vogliamo utilizzare, importante porre particolare attenzione non confondere struttura con rappresentazione. Attenzione a 
+non complicare il tutto utilizzando strutture troppo annidate (Limitiamo il numero di divs al minimo necessario).
+
+PARTIAMO CON VISUALIZZAZIONE DA TELEFONO PER POI SPOSTARCI DIRETTAMENTE A COMPUTER (tablet sarà l'ultima).

@@ -1,0 +1,11 @@
+FRONTEND
+HTML 
+[+] È possibile utilizzare servizi esterni per le icone?
+CSS
+[+] È necessario sviluppare anche la versione di stampa?
+[+] Utilizzo convenzione BEM?
+JAVASCRIPT
+[+] Utilizzo convenzione js- per javascript?
+
+BACKEND
+[+] È necessaria la persistenza dei dati?
