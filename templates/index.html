@@ -37,6 +37,34 @@
       </ul>
     </div>
   </nav>
+
+  <main>
+    <div class="container__search-bar">
+      <h2>Viaggia </h2>
+      <fieldset>
+        <legend>Ricerca tratta ferroviaria</legend>
+
+        <label for="from">Partenza</label>
+        <input type="text" name="from" id="from">
+        <label for="to">Arrivo</label>
+        <input type="text" name="to" id="to">
+        <label for="date">Data</label>
+        <input type="datetime" name="date" id="date">
+        <label for="seats">Passeggeri</label>
+        <button id="subtract" disabled>-</button>
+        <input type="number" name="seats" id="seats" placeholder="1" min="1" max="20">
+        <button id="add">+</button>
+      </fieldset>
+    </div>
+    <div class="container__news">
+      <section class="card">
+        <header class="card__header">
+          <h3></h3>
+        </header>
+        <div class="card__body"></div>
+      </section>
+    </div>
+  </main>
   
 </body>
 </html>
